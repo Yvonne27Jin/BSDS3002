@@ -4,8 +4,8 @@ Courework (ongoing) of BSDS3002 Social computing and network analysis.
 Overview of concepts covered in the assignments are as follows.
 
 ## A1
-Programming task 1: B
-asic network construction, visualisation and network measurements (density, diameter, centralities).
+Programming task 1: 
+Basic network construction, visualisation and network measurements (density, diameter, centralities).
 
 ## A2
 Programming task 2: 
